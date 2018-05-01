@@ -2,10 +2,9 @@
 
 Hello to whoever is viewing this file, 
 
-This is a simple project that was covered in my web based computing class where I was required to work with a team of 4 people to create a website from scratch and sell a product. We wanted to nerd out and be different from the rest of the class by choosing graphic cards. We used HTML, CSS, Javascript, and PHP to create this basic website. Thank you for taking a look!
+This is a simple project that was covered in my web based computing class where I was required to work with a team of 4 people to create a website from scratch and sell a product. We wanted to nerd out and be different from the rest of the class by choosing graphic cards. We used HTML, CSS, Javascript, and PHP to create this basic website. 
 
-To see it download the 
+To view the website download the ZIP and just double click the "Index.HTML"
 
-Best, 
+Shout out to Cameron, Andres, and Sergio for helping create this. 
 
-Andy 
